@@ -1,0 +1,2 @@
+# polling
+Django Polling App 
